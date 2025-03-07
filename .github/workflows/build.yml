@@ -1,0 +1,31 @@
+name: Build Astro Project
+
+on:
+  push:
+    branches:
+      - main  # O la rama de tu elección
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'  # Usa la versión de Node.js adecuada
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Astro project
+        run: npm run build
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: astro-build
+          path: ./dist  # El directorio generado por el build de Astro
