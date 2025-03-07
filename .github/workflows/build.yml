@@ -1,12 +1,6 @@
 name: Build Astro Project
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+on: [push, pull_request]
 
 jobs:
   build:
@@ -16,10 +10,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up Node.js
+    - name: Setup Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '16'
+        node-version: '18.17.1'
 
     - name: Install dependencies
       run: npm install
@@ -27,7 +21,7 @@ jobs:
     - name: Build project
       run: npm run build
 
-    - name: Upload artifact
+    - name: Upload build artifacts
       uses: actions/upload-artifact@v3
       with:
         name: build
