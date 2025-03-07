@@ -1,0 +1,294 @@
+{
+    "basics": {
+      "name": "Jaime Iván Muñoz Enriquez",
+      "label": "Ingeniero en sistemas",
+      "image": "https://avatars.githubusercontent.com/u/8303415?v=4",
+      "email": "jaime.munoz@gmail.com",
+      "phone": "+502 3978-8202",
+      "url": "",
+      "summary": "Ingeniero de desarrollo con amplia experiencia en la gestión y ejecución de soluciones tecnológicas para sectores corporativos y financieros. He liderado equipos de desarrollo, coordinando la implementación de soluciones innovadoras y asegurando el cumplimiento de objetivos y plazos.",
+      "summary2":"Cuento con experiencia en la migración y modernización de aplicaciones, integración de sistemas y optimización de procesos, utilizando tecnologías como C#, Node.js, Angular y SQL Server. Además, poseo habilidades en la gestión de equipos de trabajo, promoviendo un ambiente colaborativo y orientado a resultados.",
+       "summary3":"Mi enfoque está en aportar soluciones tecnológicas escalables, eficientes y alineadas con los objetivos del negocio, garantizando la calidad y la optimización de los procesos tecnológicos. Actualmente, me encuentro laborando en el sector bancario, dentro de un entorno de desarrollo Scrum, participando en la creación de MVPs y lanzando releases incrementales para mejorar continuamente los productos y servicios.",
+      "location": {
+        "address": "",
+        "postalCode": "01018",
+        "city": "Guatemala",
+        "countryCode": "GT",
+        "region": "Guatemala"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Jaime Muñoz",
+          "url": "https://www.linkedin.com/in/jaime-mu%C3%B1oz-7102231b7"
+        },
+        {
+          "network": "GitHub",
+          "username": "Jaime200",
+          "url": "https://github.com/Jaime200"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Banco Industrial",
+        "position": "Ingeniero de automatización de pruebas senior",
+        "url": "https://twitch.tv/midudev",
+        "startDate": "2024-02-05",
+        "endDate": null,
+        "summary": "Responsable del área de automatización de pruebas, responsable de la implementación y ejecución de pruebas automatizadas con Java y Selenium, abarcando pruebas de API y web services. Gestión y supervisión de un equipo de testers manuales, asegurando la identificación, documentación y seguimiento de bugs e incidencias. Evaluación y validación de criterios de aceptación en metodología Scrum para la creación de escenarios de prueba. Administración del repositorio en GitHub, gestionando pull requests y automatizando despliegues en ambiente QA mediante GitHub Actions.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Agexport",
+        "position": "Ingeniero de proyectos TI",
+        "url": "https://twitch.tv/midudev",
+        "startDate": "2021-11-01",
+        "endDate": "2024-01-02",
+        "summary": "Líder de desarrollo en C# y Angular, encargado del análisis, diseño e implementación de proyectos institucionales de alto impacto. Responsable del levantamiento de requerimientos en colaboración con los usuarios clave para garantizar soluciones alineadas a las necesidades del negocio. Configuración y optimización de servidores Windows para la publicación de microservicios con IIS y Nginx, asegurando alto rendimiento y disponibilidad. Optimización de consultas y funciones en bases de datos Oracle, mejorando la eficiencia y tiempos de respuesta de los sistemas.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Casa Export",
+        "position": "Programador senior",
+        "url": "https://twitch.tv/midudev",
+        "startDate": "2021-09-12",
+        "endDate": "2021-11-01",
+        "summary": "Asistente de gerencia, participando en la toma de decisiones estratégicas de TI. Responsable de la migración de reportes de iReports a Crystal Reports, mejorando la eficiencia en la generación de informes. Optimización y mejora de una aplicación on-premise para la gestión de compras de tabaco, desarrollada en Windows Forms con C#. Involucrado en la definición de la estructura de un sistema de nómina y planilla, utilizando PostgreSQL como base de datos.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "One solutions",
+        "position": "Coordinador de desarrollo SAP  ",
+        "startDate": "2021-01-01",
+        "endDate": "2021-09-01",
+        "summary": "Encargado del departamento de desarrollo SAP, gestionando un equipo de dos desarrolladores y supervisando el estado de proyectos y entregables. Responsable del análisis y gestión de requerimientos de integración con SAP, asegurando su correcta implementación. Encargado de la documentación y cierre de proyectos, garantizando el cumplimiento de plazos y calidad en las entregas.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "One solutions",
+        "position": "Coordinador de área desarrollo",
+        "startDate": "2017-11-13",
+        "endDate": "2020-09-01",
+        "summary": "Encargado del desarrollo del software de nómina y planilla, liderando la migración de una aplicación en Visual Basic ASPX a una solución moderna utilizando Node.js como backend y Angular como frontend, con Bootstrap 4 como framework CSS. Diseñé la estructura del sistema para su implementación exitosa en otros países, como Honduras, El Salvador y Costa Rica. Supervisé un equipo de tres programadores web, y estuve a cargo de la dirección del desarrollo de una aplicación móvil realizada en Ionic 4 con Angular.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Datalogic",
+        "position": "Analista programador",
+        "startDate": "2017-06-13",
+        "endDate": "2017-11-01",
+        "summary": "Desarrollo de soluciones utilizando tecnología C++ para el sector bancario, enfocado en la generación de reportes E83 para la gestión de cartera de créditos, asegurando la precisión y eficiencia en el procesamiento de datos financieros.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "ITligencia",
+        "position": "Analista programador",
+        "startDate": "2015-06-13",
+        "endDate": "2017-11-01",
+        "summary": "Desarrollo y mantenimiento de software, aplicando actualizaciones a programas finalizados para asegurar su rendimiento óptimo. Diseño e implementación de web services para integraciones, y configuración de IIS para su correcta publicación. Experiencia en la instalación e implementación de sistemas POS. Uso de SQL Server para la creación de consultas (queries) y vistas, optimizando el acceso y la gestión de datos.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],    
+    "education": [
+      {
+        "institution": "UNIR",
+        "url": "https://www.uoc.edu/portal/es/index.html",
+        "area": "Ingeniero de Software",
+        "studyType": "Maestría en Administración de Negocios",
+        "startDate": "2024-03-01",
+        "endDate": null,
+        "score": "4.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      },
+      {
+      "institution": "Universidad Mariano Gálvez de Guatemala",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniero de Software",
+      "studyType": "Ingeniería en sistemas",
+      "startDate": "2011-02-01",
+      "endDate": "2019-08-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Universidad Mariano Gálvez de Guatemala",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniero de Software",
+      "studyType": "Maestría en Administración de Negocios",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+    
+  ],    
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Básico",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend"
+        ]
+      },
+      {
+        "name": "NodeJS",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "C#",
+        "level": "Avanzado",
+        "keywords": [
+         "Backend", "API", "Servidor"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "Avanzado",
+        "keywords": [
+         "Backend", "API", "Servidor"
+        ]
+      },
+      {
+        "name": "Maven",
+        "level": "Avanzado",
+        "keywords": [
+         "Backend", "API", "Servidor"
+        ]
+      },
+      {
+        "name": "Selenium",
+        "level": "Avanzado",
+        "keywords": [
+         "Backend", "API", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Oracle",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Sql Server",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "Angular",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "UI"
+        ]
+      },
+      {
+        "name": "Ionic",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "projects": [
+
+    ]
+  }
