@@ -3,29 +3,32 @@ name: Build Astro Project
 on:
   push:
     branches:
-      - main  # O la rama que desees utilizar para el despliegue
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v2  # Revisa que esta sea la versión correcta
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '18'  # Usa la versión adecuada de Node.js
+          node-version: '18.x'
 
       - name: Install dependencies
         run: npm install
 
-      - name: Build Astro project
+      - name: Build
         run: npm run build
 
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v2
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: astro-build
-          path: ./dist  # Asegúrate de que esta ruta sea la correcta
+          name: build
+          path: dist/
