@@ -1,14 +1,14 @@
 {
     "basics": {
       "name": "Jaime Iván Muñoz Enriquez",
-      "label": "Ingeniero en sistemas",
+      "label": "Software Engineer | Líder de Equipos de Desarrollo",
       "image": "https://avatars.githubusercontent.com/u/8303415?v=4",
       "email": "jaime.munoz@gmail.com",
       "phone": "+502 3978-8202",
       "url": "",
-      "summary": "Ingeniero de desarrollo con amplia experiencia en la gestión y ejecución de soluciones tecnológicas para sectores corporativos y financieros. He liderado equipos de desarrollo, coordinando la implementación de soluciones innovadoras y asegurando el cumplimiento de objetivos y plazos.",
-      "summary2":"Cuento con experiencia en la migración y modernización de aplicaciones, integración de sistemas y optimización de procesos, utilizando tecnologías como C#, Node.js, Angular y SQL Server. Además, poseo habilidades en la gestión de equipos de trabajo, promoviendo un ambiente colaborativo y orientado a resultados.",
-       "summary3":"Mi enfoque está en aportar soluciones tecnológicas escalables, eficientes y alineadas con los objetivos del negocio, garantizando la calidad y la optimización de los procesos tecnológicos. Actualmente, me encuentro laborando en el sector bancario, dentro de un entorno de desarrollo Scrum, participando en la creación de MVPs y lanzando releases incrementales para mejorar continuamente los productos y servicios.",
+      "summary": "Ingeniero en sistemas con más de 7 años de experiencia en desarrollo y liderazgo de equipos técnicos, especializado en la creación de soluciones escalables y la gestión de productos de software.",
+      "summary2":"He liderado equipos de desarrollo en entornos Agile/Scrum, implementando estrategias de optimización de procesos y promoviendo una cultura de crecimiento (growth mindset) y excelencia técnica. Experto en desarrollo backend con C#, Node.js y SQL Server, así como en arquitectura de software, diseño de microservicios y despliegues con CI/CD.",
+       "summary3":"Apasionado por la innovación, la mentoría de equipos y la construcción de soluciones con impacto en el negocio. Busco crear entornos colaborativos donde el equipo pueda crecer y entregar software de alta calidad de manera continua.",
       "location": {
         "address": "",
         "postalCode": "01018",
@@ -33,7 +33,7 @@
       {
         "name": "Banco Industrial",
         "position": "Ingeniero de automatización de pruebas senior",
-        "url": "https://twitch.tv/midudev",
+        "url": "",
         "startDate": "2024-02-05",
         "endDate": null,
         "summary": "Responsable del área de automatización de pruebas, responsable de la implementación y ejecución de pruebas automatizadas con Java y Selenium, abarcando pruebas de API y web services. Gestión y supervisión de un equipo de testers manuales, asegurando la identificación, documentación y seguimiento de bugs e incidencias. Evaluación y validación de criterios de aceptación en metodología Scrum para la creación de escenarios de prueba. Administración del repositorio en GitHub, gestionando pull requests y automatizando despliegues en ambiente QA mediante GitHub Actions.",
@@ -44,10 +44,10 @@
       {
         "name": "Agexport",
         "position": "Ingeniero de proyectos TI",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2021-11-01",
+        "url": "",
+        "startDate": "2021-11-03",
         "endDate": "2024-01-02",
-        "summary": "Líder de desarrollo en C# y Angular, encargado del análisis, diseño e implementación de proyectos institucionales de alto impacto. Responsable del levantamiento de requerimientos en colaboración con los usuarios clave para garantizar soluciones alineadas a las necesidades del negocio. Configuración y optimización de servidores Windows para la publicación de microservicios con IIS y Nginx, asegurando alto rendimiento y disponibilidad. Optimización de consultas y funciones en bases de datos Oracle, mejorando la eficiencia y tiempos de respuesta de los sistemas.",
+        "summary": "Lideré un equipo de desarrollo en la implementación de soluciones institucionales clave, asegurando la entrega de productos escalables y alineados con las necesidades del negocio. Diseñé arquitecturas robustas en C# y Angular, implementando principios de MVC y microservicios para optimizar la modularidad del software. Dirigí la optimización de servidores en Windows con IIS y Nginx, logrando una mejora del 40% en el rendimiento y disponibilidad de aplicaciones.",
         "highlights": [
           "Started the company"
         ]
@@ -55,10 +55,10 @@
       {
         "name": "Casa Export",
         "position": "Programador senior",
-        "url": "https://twitch.tv/midudev",
+        "url": "",
         "startDate": "2021-09-12",
-        "endDate": "2021-11-01",
-        "summary": "Asistente de gerencia, participando en la toma de decisiones estratégicas de TI. Responsable de la migración de reportes de iReports a Crystal Reports, mejorando la eficiencia en la generación de informes. Optimización y mejora de una aplicación on-premise para la gestión de compras de tabaco, desarrollada en Windows Forms con C#. Involucrado en la definición de la estructura de un sistema de nómina y planilla, utilizando PostgreSQL como base de datos.",
+        "endDate": "2021-11-02",
+        "summary": "Modernicé una aplicación legacy en Windows Forms y C#, aplicando principios SOLID para mejorar la mantenibilidad y escalabilidad del código, reduciendo la deuda técnica y facilitando futuras extensiones del sistema. Optimicé la generación de reportes críticos en Crystal Reports, reduciendo uno de ellos  en el tiempo de 10 segundos a 5 segundos, mejorando la eficiencia operativa y la experiencia de usuario.",
         "highlights": [
           "Started the company"
         ]
@@ -66,8 +66,8 @@
       {
         "name": "One solutions",
         "position": "Coordinador de desarrollo SAP  ",
-        "startDate": "2021-01-01",
-        "endDate": "2021-09-01",
+        "startDate": "2021-05-02",
+        "endDate": "2021-09-02",
         "summary": "Encargado del departamento de desarrollo SAP, gestionando un equipo de dos desarrolladores y supervisando el estado de proyectos y entregables. Responsable del análisis y gestión de requerimientos de integración con SAP, asegurando su correcta implementación. Encargado de la documentación y cierre de proyectos, garantizando el cumplimiento de plazos y calidad en las entregas.",
         "highlights": [
           "Started the company"
@@ -75,10 +75,10 @@
       },
       {
         "name": "One solutions",
-        "position": "Coordinador de área desarrollo",
+        "position": "Coordinador de área desarrollo de software",
         "startDate": "2017-11-13",
-        "endDate": "2020-09-01",
-        "summary": "Encargado del desarrollo del software de nómina y planilla, liderando la migración de una aplicación en Visual Basic ASPX a una solución moderna utilizando Node.js como backend y Angular como frontend, con Bootstrap 4 como framework CSS. Diseñé la estructura del sistema para su implementación exitosa en otros países, como Honduras, El Salvador y Costa Rica. Supervisé un equipo de tres programadores web, y estuve a cargo de la dirección del desarrollo de una aplicación móvil realizada en Ionic 4 con Angular.",
+        "endDate": "2021-05-02",
+        "summary": "Lideré la migración de un sistema core de nómina de una arquitectura monolítica en Visual Basic ASPX a una solución Node.js y Angular, logrando escalabilidad y mejor rendimiento. Diseñé la arquitectura del sistema para su expansión en otros países (Honduras, El Salvador, Costa Rica), garantizando adaptación a regulaciones locales. Supervisé y mentoreé a un equipo de 3 desarrolladores, promoviendo prácticas de Code Review y mejores prácticas en desarrollo ágil.",
         "highlights": [
           "Started the company"
         ]
@@ -96,9 +96,9 @@
       {
         "name": "ITligencia",
         "position": "Analista programador",
-        "startDate": "2015-06-13",
-        "endDate": "2017-11-01",
-        "summary": "Desarrollo y mantenimiento de software, aplicando actualizaciones a programas finalizados para asegurar su rendimiento óptimo. Diseño e implementación de web services para integraciones, y configuración de IIS para su correcta publicación. Experiencia en la instalación e implementación de sistemas POS. Uso de SQL Server para la creación de consultas (queries) y vistas, optimizando el acceso y la gestión de datos.",
+        "startDate": "2016-02-13",
+        "endDate": "2017-06-01",
+        "summary": "Encargado de mantenimiento de software, desarrollo de web services e instalación de sistemas POS. Optimizé consultas en bases de datos, reduciendo tiempos de respuesta mejorando la experiencia de usuario en aplicaciones empresariales.",
         "highlights": [
           "Started the company"
         ]
@@ -109,9 +109,21 @@
         "institution": "UNIR",
         "url": "https://www.uoc.edu/portal/es/index.html",
         "area": "Ingeniero de Software",
-        "studyType": "Maestría en Administración de Negocios",
+        "studyType": "Maestría en Análisis y Visualización de Datos Masivos",
         "startDate": "2024-03-01",
         "endDate": null,
+        "score": "4.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      },
+      {
+        "institution": "Universidad Mariano Gálvez de Guatemala",
+        "url": "https://www.uoc.edu/portal/es/index.html",
+        "area": "Ingeniero de Software",
+        "studyType": "Maestría en Administración de Negocios (1 año)",
+        "startDate": "2018-01-01",
+        "endDate": "2018-12-01",
         "score": "4.0",
         "courses": [
           "DB1101 - Basic SQL"
@@ -128,50 +140,11 @@
       "courses": [
         "DB1101 - Basic SQL"
       ]
-    },
-    {
-      "institution": "Universidad Mariano Gálvez de Guatemala",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Maestría en Administración de Negocios",
-      "startDate": "2018-01-01",
-      "endDate": "2018-12-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
     }
+    
     
   ],    
     "skills": [
-      {
-        "name": "HTML",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
-      },
-      {
-        "name": "CSS",
-        "level": "Intermedio",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "JavaScript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-        ]
-      },
-      {
-        "name": "Tailwind",
-        "level": "Básico",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
       {
         "name": "TypeScript",
         "level": "Avanzado",
@@ -187,7 +160,21 @@
         ]
       },
       {
+        "name": "Express.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
         "name": "C#",
+        "level": "Avanzado",
+        "keywords": [
+         "Backend", "API", "Servidor"
+        ]
+      },
+      {
+        "name": "Entity Framework",
         "level": "Avanzado",
         "keywords": [
          "Backend", "API", "Servidor"
@@ -276,7 +263,36 @@
         "keywords": [
           "Desarrollo Web", "Frontend", "UI"
         ]
+      },
+      {
+        "name": "HTML",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Básico",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
       }
+      
     ],
     "languages": [
       {

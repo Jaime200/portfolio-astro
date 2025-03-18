@@ -56,5 +56,18 @@ const  title  =`Portafolio de ${basics.name} - ${basics.label}`;
 		line-height: 1.5;
 		text-wrap: pretty;
 	}
+
+	@media print {
+  @page {
+    padding: 50px;
+    margin: 0; /* Esto ayuda a eliminar márgenes no deseados */
+  }
+
+  /* Oculta encabezados y pies de página automáticos del navegador */
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
 	
 </style>
