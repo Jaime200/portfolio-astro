@@ -153,6 +153,20 @@
         ]
       },
       {
+        "name": "API",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend"
+        ]
+      },
+      {
+        "name": "RabbitMQ",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend"
+        ]
+      },
+      {
         "name": "NodeJS",
         "level": "Avanzado",
         "keywords": [
