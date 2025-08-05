@@ -7,7 +7,7 @@
       "phone": "+502 3978-8202",
       "url": "",
       "summary": "Ingeniero en sistemas con más de 7 años de experiencia en desarrollo y liderazgo de equipos técnicos, especializado en la creación de soluciones escalables y la gestión de productos de software.",
-      "summary2":"He liderado equipos de desarrollo en entornos Agile/Scrum, implementando estrategias de optimización de procesos y promoviendo una cultura de crecimiento (growth mindset) y excelencia técnica. Experto en desarrollo backend con C#, Node.js y SQL Server, así como en arquitectura de software, diseño de microservicios y despliegues con CI/CD.",
+      "summary2":"He liderado equipos de desarrollo en entornos Agile/Scrum, implementando estrategias de optimización de procesos y promoviendo una cultura de crecimiento y excelencia técnica. Experto en desarrollo backend con C#, Node.js y SQL Server, así como en arquitectura de software, diseño de microservicios y despliegues con CI/CD.",
        "summary3":"Apasionado por la innovación, la mentoría de equipos y la construcción de soluciones con impacto en el negocio. Busco crear entornos colaborativos donde el equipo pueda crecer y entregar software de alta calidad de manera continua.",
       "location": {
         "address": "",
@@ -47,7 +47,7 @@
         "url": "",
         "startDate": "2021-11-03",
         "endDate": "2024-01-02",
-        "summary": "Lideré un equipo de desarrollo en la implementación de soluciones institucionales clave, asegurando la entrega de productos escalables y alineados con las necesidades del negocio. Diseñé arquitecturas robustas en C# y Angular, implementando principios de MVC y microservicios para optimizar la modularidad del software. Dirigí la optimización de servidores en Windows con IIS y Nginx, logrando una mejora del 40% en el rendimiento y disponibilidad de aplicaciones.",
+        "summary": "Lideré un equipo de desarrollo en la implementación de soluciones institucionales clave, asegurando la entrega de productos escalables y alineados con las necesidades del negocio. Diseñé arquitecturas robustas en C# y Angular, implementando principios de MVC y microservicios para optimizar la modularidad del software. Dirigí la optimización de servidores en Windows con IIS y Nginx, logrando una mejora en el rendimiento y disponibilidad de aplicaciones.",
         "highlights": [
           "Started the company"
         ]
