@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.5.10",
-    "astro": "^5.4.2",
+    "astro": "^5.13.1",
     "ninja-keys": "^1.2.2",
     "typescript": "^5.4.4"
   }
