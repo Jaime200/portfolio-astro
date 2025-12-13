@@ -111,7 +111,7 @@
         "area": "Ingeniero de Software",
         "studyType": "Maestría en Análisis y Visualización de Datos Masivos",
         "startDate": "2024-03-01",
-        "endDate": null,
+        "endDate": "2025-11-01",
         "score": "4.0",
         "courses": [
           "DB1101 - Basic SQL"
@@ -321,4 +321,5 @@
     "projects": [
 
     ]
+
   }
