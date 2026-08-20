@@ -31,11 +31,38 @@
     },
     "work": [
       {
+        "name": "Infile GT - Factura Electrónica",
+        "position": "Coordinador de proyectos de TI",
+        "url": "",
+        "startDate": "2026-07-01",
+        "endDate": null,
+        "summary": "Coordinación y dirección de proyectos de TI, dando seguimiento al avance del equipo de desarrollo y definiendo el alcance de las soluciones a construir. Dirijo el desarrollo de aplicaciones en Ruby on Rails y Flutter, apoyándome en herramientas de IA como Claude y Kiro para acelerar el ciclo de desarrollo y mejorar la calidad del código entregado por el equipo.",
+        "highlights": [
+          "Seguimiento de proyectos",
+          "Definición de alcance",
+          "Dirección de equipo de desarrollo (Ruby on Rails, Flutter)",
+          "Uso de IA (Claude, Kiro) como apoyo al proceso de desarrollo"
+        ]
+      },
+      {
+        "name": "Infile GT - Factura Electrónica",
+        "position": "Team Leader de desarrollo",
+        "url": "",
+        "startDate": "2026-03-01",
+        "endDate": "2026-07-01",
+        "summary": "Liderazgo del equipo de desarrollo, dirigiendo la construcción de soluciones en Ruby on Rails y Flutter, e integrando herramientas de IA (Claude, Kiro) al flujo de trabajo del equipo.",
+        "highlights": [
+          "Liderazgo de equipo",
+          "Dirección técnica en Ruby on Rails y Flutter",
+          "Adopción de IA (Claude, Kiro) en el flujo de desarrollo"
+        ]
+      },
+      {
         "name": "Banco Industrial",
         "position": "Ingeniero de automatización de pruebas senior",
         "url": "",
         "startDate": "2024-02-05",
-        "endDate": null,
+        "endDate": "2026-03-01",
         "summary": "Responsable del área de automatización de pruebas, responsable de la implementación y ejecución de pruebas automatizadas con Java y Selenium, abarcando pruebas de API y web services. Gestión y supervisión de un equipo de testers manuales, asegurando la identificación, documentación y seguimiento de bugs e incidencias. Evaluación y validación de criterios de aceptación en metodología Scrum para la creación de escenarios de prueba. Administración del repositorio en GitHub, gestionando pull requests y automatizando despliegues en ambiente QA mediante GitHub Actions.",
         "highlights": [
           "Started the company"
@@ -145,6 +172,34 @@
     
   ],    
     "skills": [
+      {
+        "name": "Gestión de Proyectos",
+        "level": "Avanzado",
+        "keywords": [
+          "Seguimiento de proyectos", "Definición de alcance", "Dirección de equipos"
+        ]
+      },
+      {
+        "name": "IA para desarrollo de software",
+        "level": "Avanzado",
+        "keywords": [
+          "Claude", "Kiro", "Productividad de equipo", "Asistencia de código"
+        ]
+      },
+      {
+        "name": "Ruby on Rails",
+        "level": "Intermedio",
+        "keywords": [
+          "Dirección técnica", "Backend", "Desarrollo Web"
+        ]
+      },
+      {
+        "name": "Flutter",
+        "level": "Intermedio",
+        "keywords": [
+          "Dirección técnica", "Mobile", "Cross-platform"
+        ]
+      },
       {
         "name": "TypeScript",
         "level": "Avanzado",
