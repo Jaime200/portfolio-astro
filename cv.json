@@ -36,11 +36,13 @@
         "url": "",
         "startDate": "2026-07-01",
         "endDate": null,
-        "summary": "Coordinación y dirección de proyectos de TI, dando seguimiento al avance del equipo de desarrollo y definiendo el alcance de las soluciones a construir. Dirijo el desarrollo de aplicaciones en Ruby on Rails y Flutter, apoyándome en herramientas de IA como Claude y Kiro para acelerar el ciclo de desarrollo y mejorar la calidad del código entregado por el equipo.",
+        "summary": "Coordinación y dirección de un equipo de 4 personas, liderando distintos proyectos en paralelo: desarrollo de plataformas web, procesos de extracción de datos (ETL) en Ruby on Rails, una aplicación móvil en Flutter, APIs en Ruby on Rails y C# .NET Core, y modificaciones sobre proyectos existentes en .NET Core. Doy seguimiento al avance del equipo de desarrollo y defino el alcance de las soluciones a construir, apoyándome en herramientas de IA como Claude y Kiro para acelerar el ciclo de desarrollo y mejorar la calidad del código entregado por el equipo.",
         "highlights": [
-          "Seguimiento de proyectos",
-          "Definición de alcance",
-          "Dirección de equipo de desarrollo (Ruby on Rails, Flutter)",
+          "Liderazgo de equipo de desarrollo (4 personas)",
+          "Plataformas web y APIs en Ruby on Rails y C# .NET Core",
+          "Procesos ETL de extracción de datos en Ruby on Rails",
+          "App móvil en Flutter",
+          "Modificación de proyectos existentes en .NET Core",
           "Uso de IA (Claude, Kiro) como apoyo al proceso de desarrollo"
         ]
       },
@@ -50,10 +52,11 @@
         "url": "",
         "startDate": "2026-03-01",
         "endDate": "2026-07-01",
-        "summary": "Liderazgo del equipo de desarrollo, dirigiendo la construcción de soluciones en Ruby on Rails y Flutter, e integrando herramientas de IA (Claude, Kiro) al flujo de trabajo del equipo.",
+        "summary": "Liderazgo de un equipo de 4 desarrolladores, dirigiendo la construcción de soluciones en distintos frentes: plataformas web, procesos ETL de extracción de datos en Ruby on Rails, una app móvil en Flutter, APIs en Ruby on Rails y C# .NET Core, y modificaciones sobre proyectos en .NET Core, integrando herramientas de IA (Claude, Kiro) al flujo de trabajo del equipo.",
         "highlights": [
-          "Liderazgo de equipo",
-          "Dirección técnica en Ruby on Rails y Flutter",
+          "Liderazgo de equipo de desarrollo (4 personas)",
+          "Dirección técnica en Ruby on Rails, C# .NET Core y Flutter",
+          "Procesos ETL de extracción de datos en Ruby on Rails",
           "Adopción de IA (Claude, Kiro) en el flujo de desarrollo"
         ]
       },
@@ -74,9 +77,12 @@
         "url": "",
         "startDate": "2021-11-03",
         "endDate": "2024-01-02",
-        "summary": "Lideré un equipo de desarrollo en la implementación de soluciones institucionales clave, asegurando la entrega de productos escalables y alineados con las necesidades del negocio. Diseñé arquitecturas robustas en C# y Angular, implementando principios de MVC y microservicios para optimizar la modularidad del software. Dirigí la optimización de servidores en Windows con IIS y Nginx, logrando una mejora en el rendimiento y disponibilidad de aplicaciones.",
+        "summary": "Lideré un equipo de desarrollo (1-2 personas) en la implementación de soluciones institucionales clave, asegurando la entrega de productos escalables y alineados con las necesidades del negocio. Diseñé arquitecturas robustas en C# (.NET Framework y .NET Core) y Angular, implementando principios de MVC y microservicios para optimizar la modularidad del software. Dirigí la optimización de servidores en Windows con IIS y Nginx, logrando una mejora en el rendimiento y disponibilidad de aplicaciones.",
         "highlights": [
-          "Started the company"
+          "Liderazgo de equipo de desarrollo (1-2 personas)",
+          "Arquitectura en C# .NET Framework y .NET Core",
+          "Frontend en Angular",
+          "Optimización de servidores Windows (IIS, Nginx)"
         ]
       },
       {
@@ -105,9 +111,13 @@
         "position": "Coordinador de área desarrollo de software",
         "startDate": "2017-11-13",
         "endDate": "2021-05-02",
-        "summary": "Lideré la migración de un sistema core de nómina de una arquitectura monolítica en Visual Basic ASPX a una solución Node.js y Angular, logrando escalabilidad y mejor rendimiento. Diseñé la arquitectura del sistema para su expansión en otros países (Honduras, El Salvador, Costa Rica), garantizando adaptación a regulaciones locales. Supervisé y mentoreé a un equipo de 3 desarrolladores, promoviendo prácticas de Code Review y mejores prácticas en desarrollo ágil.",
+        "summary": "Lideré la migración de un sistema core de nómina de una arquitectura monolítica en Visual Basic ASPX hacia una solución moderna, desarrollando APIs en Node.js y C#, con frontend en Angular, logrando escalabilidad y mejor rendimiento. Utilicé SQL Server como motor de base de datos y Crystal Reports para la generación de reportes del sistema. Diseñé la arquitectura del sistema para su expansión en otros países (Honduras, El Salvador, Costa Rica), garantizando adaptación a regulaciones locales. Supervisé y mentoreé a un equipo de 3 desarrolladores, promoviendo prácticas de Code Review y mejores prácticas en desarrollo ágil.",
         "highlights": [
-          "Started the company"
+          "Liderazgo de equipo de desarrollo (3 personas)",
+          "Migración de sistema legacy (Visual Basic ASPX) a APIs en Node.js y C#",
+          "Frontend en Angular",
+          "SQL Server y Crystal Reports para reportería",
+          "Diseño de arquitectura multi-país"
         ]
       },
       {
@@ -125,9 +135,12 @@
         "position": "Analista programador",
         "startDate": "2016-02-13",
         "endDate": "2017-06-01",
-        "summary": "Encargado de mantenimiento de software, desarrollo de web services e instalación de sistemas POS. Optimizé consultas en bases de datos, reduciendo tiempos de respuesta mejorando la experiencia de usuario en aplicaciones empresariales.",
+        "summary": "Encargado de mantenimiento de software, desarrollo de web services (SOAP) e instalación de sistemas POS, utilizando C#, ASPX y SQL Server. Optimizé consultas en bases de datos, reduciendo tiempos de respuesta y mejorando la experiencia de usuario en aplicaciones empresariales.",
         "highlights": [
-          "Started the company"
+          "Desarrollo en C# y ASPX",
+          "Web services con SOAP",
+          "Optimización de consultas en SQL Server",
+          "Mantenimiento de sistemas POS"
         ]
       }
     ],    
@@ -190,7 +203,7 @@
         "name": "Ruby on Rails",
         "level": "Intermedio",
         "keywords": [
-          "Dirección técnica", "Backend", "Desarrollo Web"
+          "Dirección técnica", "Backend", "Desarrollo Web", "ETL", "Extracción de Datos"
         ]
       },
       {
@@ -240,6 +253,34 @@
         "level": "Avanzado",
         "keywords": [
          "Backend", "API", "Servidor"
+        ]
+      },
+      {
+        "name": ".NET Framework",
+        "level": "Avanzado",
+        "keywords": [
+         "Backend", "API", "Servidor", "ASPX"
+        ]
+      },
+      {
+        "name": ".NET Core",
+        "level": "Avanzado",
+        "keywords": [
+         "Backend", "API", "Servidor"
+        ]
+      },
+      {
+        "name": "SOAP",
+        "level": "Intermedio",
+        "keywords": [
+         "Web Services", "Backend", "Integración"
+        ]
+      },
+      {
+        "name": "Crystal Reports",
+        "level": "Intermedio",
+        "keywords": [
+         "Reportería", "Backend"
         ]
       },
       {
